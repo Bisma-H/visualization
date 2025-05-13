@@ -10,18 +10,25 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
 
+    One   visualization that I do not particulalry like is this one: 
+https://public.tableau.com/app/profile/bo.mccready8742/viz/TwoErasofSafetyIronViz2025Winner/TwoEras
 
+It shows the number of recorded aircraft-wildlife strikes by year, starting from 1990. The graphic uses position of lines, and color to encode the data. The barchart gives us two pieces of information: the number of strikes each year (based on the bar height) and the strikes post the 1549 based on the difference in color. Although the visualization is aesthetic and substantive, it does not effectively convey the message. Firstly, it doesn't tell us the exact number of crashes and the bar heights are not labelled. Secondly, the x axis is not labelled either so it is not clear which year each bar is representing unless we hover the mouse over the bar.
+ 
+One graphic that I like is:
 
+https://public.tableau.com/app/profile/bchavez/viz/TC25FavoriteChartsTechniques/TC25ChartsTechniques
 
-
+This visualization is clear, aesthetically pleasing, effective and expressive. It also allows us to grasp the main point of the graph at first glance. We know the exact proportion each category takes up of the total sales. This information is presented both as a bar chart and as a part of a pie chart and the exact number is alos given (both the dollar amount and the percentage of the total bill). This information lets us know exactly how much Storage and binders are contributing to total sales along with all the other categories. The information is presented in a neutral way but we still manage to grasp the main concept. 
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+The first graphic can be can be improved by adding x axis label and bar heights to the graph. Also labelling the y axis (what is the scale is the bar chart showing?)
+
+The second graphic can be improved by reducing the cognitive load by adding a pie cahrt shopwing all the different categories. That will make it easier to compare how much share each category has. 
 
 
 
